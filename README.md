@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ### Running the Project
 
 ```
-python app.py --token <YOUR_TOKEN
+python app.py --token <YOUR_TOKEN>
 ```
 
 ## Source
